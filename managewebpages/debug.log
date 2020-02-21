@@ -1,0 +1,8 @@
+[0220/164655.567:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fff1144ed18 of 12 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0220/164655.710:WARNING:process_snapshot_win.cc(71)] ReadMemory ExceptionInformation failed
+[0220/164655.710:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[0221/120759.942:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0221/120759.983:ERROR:process_reader_win.cc(123)] NtOpenThread: Se ha especificado un identificador de cliente no válido. (0xc000000b)
+[0221/120800.016:ERROR:process_reader_win.cc(123)] NtOpenThread: Se ha especificado un identificador de cliente no válido. (0xc000000b)
+[0221/120800.023:ERROR:exception_snapshot_win.cc(98)] thread ID 16844 not found in process
+[0221/120800.023:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
